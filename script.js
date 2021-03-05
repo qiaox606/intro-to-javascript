@@ -13,7 +13,7 @@ console.log(null || 1);
 
 console.log('I','S','A','B','L','L','A');
 
-console.log(2+3, 'hi', true);
+console.log(2 + 3, 'hi', true);
 
 var firstname = 'Isabella';
 var lastname = 'QIAO';
@@ -29,5 +29,15 @@ console.log(lengthstring.length);
 
 var first_name = 'Isabella';
 var last_name = 'Qiao';
-console.log(first_name) = console.log(last_name);
+console.log(first_name) == console.log(last_name);
 
+var restaurants = ['HOTPOT', 'TOKYTO SUSHI', 'Pizzahut'];
+
+var threethings = ['watch movie', 'dance', 'travelling'];
+
+var placeinNYC = ['MOMA', 'TimeSquare', 'CentralPark'];
+
+var movies = ['Toy Stories', '侍神令', 'Hi Mom'];
+
+var restaurants = ['HOTPOT', 'TOKYTO SUSHI', 'Pizzahut'];
+for (var i = 0; i < 3; i++) ;
