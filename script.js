@@ -24,3 +24,10 @@ console.log(intergers);
 
 var yourname = "Isabella";
 
+var lengthstring = 'supercalifragilisticexpialidocious';
+console.log(lengthstring.length);
+
+var first_name = 'Isabella';
+var last_name = 'Qiao';
+console.log(first_name) = console.log(last_name);
+
