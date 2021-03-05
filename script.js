@@ -32,12 +32,17 @@ var last_name = 'Qiao';
 console.log(first_name) == console.log(last_name);
 
 var restaurants = ['HOTPOT', 'TOKYTO SUSHI', 'Pizzahut'];
+console.log(restaurants);
 
 var threethings = ['watch movie', 'dance', 'travelling'];
+console.log(threethings);
 
 var placeinNYC = ['MOMA', 'TimeSquare', 'CentralPark'];
+console.log(placeinNYC);
 
 var movies = ['Toy Stories', '侍神令', 'Hi Mom'];
+console.log(movies);
 
+console.log(restaurants);
 var restaurants = ['HOTPOT', 'TOKYTO SUSHI', 'Pizzahut'];
 for (var i = 0; i < 3; i++) ;
