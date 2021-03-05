@@ -1,12 +1,12 @@
 
 
-var name="Isabella";
+var name = "Isabella";
 console.log(name);
 
-var number = 1;
+var number = "1";
 console.log(number);
 
-const mynumber = 1;
+const mynumber = "1";
 console.log(mynumber.toString);
 
 console.log(null || 1);
