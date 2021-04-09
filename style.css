@@ -1,7 +1,9 @@
-/* CSS files add styling rules to your content */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
 
-body {
-  font-family: helvetica, arial, sans-serif;
+h1 {
+  font-family:'Cinzel', serif;
   margin: 2em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
